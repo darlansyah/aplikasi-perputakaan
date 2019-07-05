@@ -8,4 +8,4 @@
 header("location:srtdash/app/login/admin/login.php");
 
 ?>
-<h1> laode darlansyah <h1>
+<h1> laode darlansyah02 <h1>
