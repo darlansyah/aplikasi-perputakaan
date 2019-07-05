@@ -8,7 +8,3 @@
 header("location:../lihatBuku/lihat-buku.php");
 
 ?>
-<tr>
-  <th> helllo </th>
-  <th> world </th>
-</tr>
