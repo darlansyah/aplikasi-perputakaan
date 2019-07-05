@@ -8,5 +8,3 @@
 header("location:srtdash/app/login/admin/login.php");
 
 ?>
-
-<h1> laode darlansyah repo github 01 <h1>
