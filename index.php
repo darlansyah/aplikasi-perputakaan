@@ -9,4 +9,4 @@ header("location:srtdash/app/login/admin/login.php");
 
 ?>
 
-<h1> laode darlansyah repo github <h1>
+<h1> laode darlansyah repo local <h1>
